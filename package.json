@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-crud-mongodb",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manzooralam/NodeJs-CRUD-MongoDB.git"
+  },
+  "keywords": [
+    "NODEJS",
+    "EXPRESSJS",
+    "MONGODB",
+    "JAVASCRIPT",
+    "FETCH-API",
+    "BOOTSTRAP"
+  ],
+  "author": "manzoor1996alaam@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manzooralam/NodeJs-CRUD-MongoDB/issues"
+  },
+  "homepage": "https://github.com/manzooralam/NodeJs-CRUD-MongoDB#readme"
+}
