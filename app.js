@@ -117,8 +117,8 @@ db.connect((err)=>{
         // Successfully connected to database
         // Start up our Express Application
         // And listen for Request
-        app.listen(3000,()=>{
-            console.log('connected to database, app listening on port 3000');
+        app.listen(8000,()=>{
+            console.log('connected to database, app listening on port 8000');
         });
     }
 });
